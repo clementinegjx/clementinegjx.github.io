@@ -45,17 +45,6 @@
     
     
     <entry>
-      <title>about</title>
-      <link href="/clementine-blog/about/index.html"/>
-      <url>/clementine-blog/about/index.html</url>
-      
-        <content type="html"><![CDATA[<p>我是笨蛋我是笨蛋我是笨蛋</p>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>All tags</title>
       <link href="/clementine-blog/tags/index.html"/>
       <url>/clementine-blog/tags/index.html</url>
@@ -83,6 +72,17 @@
       <url>/clementine-blog/schedules/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>about</title>
+      <link href="/clementine-blog/about/index.html"/>
+      <url>/clementine-blog/about/index.html</url>
+      
+        <content type="html"><![CDATA[<p>我是笨蛋我是笨蛋我是笨蛋</p>]]></content>
       
     </entry>
     
